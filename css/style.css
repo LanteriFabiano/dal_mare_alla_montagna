@@ -21,6 +21,7 @@ header {
 body {
     background-image: url(https://www.vdgmagazine.it/wp-content/uploads/2020/06/Triora_Panorama_sett2019.jpg);
     background-size: cover;
+    margin: 0;
 }
 
 nav {
